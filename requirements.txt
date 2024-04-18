@@ -1,0 +1,11 @@
+# external requirements
+fasttext-wheel
+pickle
+multiprocessing
+plotly
+nltk
+pathlib
+torch
+scikit-learn
+transformers
+wordcloud

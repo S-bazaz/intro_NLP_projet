@@ -1,0 +1,96 @@
+__label__femme metier:sans profession civilite: nom:leonie lien_famille:fille 
+__label__homme metier:cultivateur civilite: nom:etienne lien_famille:chef 
+__label__homme metier:sans profession civilite: nom:eugene lien_famille: 
+__label__femme metier:domestique civilite: nom:rose lien_famille:domestique 
+__label__ambigu metier: civilite: nom:marie lien_famille:chef 
+__label__femme metier:domestique civilite: nom:marguerite lien_famille: 
+__label__homme metier: civilite: nom:etienne lien_famille:fils 
+__label__femme metier:domestique civilite: nom:colette lien_famille: 
+__label__femme metier:sans profession civilite: nom:marie lien_famille:bru 
+__label__femme metier: civilite: nom:rose lien_famille:mere 
+__label__homme metier:sans profession civilite: nom:arthur lien_famille: 
+__label__femme metier:sans profession civilite: nom:marie lien_famille:belle mere 
+__label__ambigu metier:cultivateur civilite: nom:claude lien_famille:chef 
+__label__femme metier: civilite: nom:jeanne lien_famille:femme 
+__label__homme metier: civilite: nom:joseph lien_famille: 
+__label__homme metier:journalier terrassier civilite: nom:pierre lien_famille:chef 
+__label__homme metier: civilite: nom:jean lien_famille:fils 
+__label__femme metier: civilite: nom:marie lien_famille:femme 
+__label__homme metier:cult eur civilite: nom:jean lien_famille: 
+__label__femme metier: civilite: nom:marie lien_famille:fille 
+__label__homme metier:patissier civilite: nom:joseph lien_famille: 
+__label__homme metier:manoeuvre civilite: nom:jean raymond lien_famille:chef 
+__label__homme metier: civilite:garcon nom:joseph lien_famille: 
+__label__homme metier:sans profession civilite: nom:charles lien_famille:petit fils 
+__label__homme metier: civilite: nom:louis lien_famille: 
+__label__femme metier:sans profession civilite: nom:jeanne lien_famille:femme 
+__label__femme metier: civilite: nom:marthe lien_famille:fille 
+__label__femme metier: civilite: nom:virginie lien_famille:epouse 
+__label__homme metier: civilite: nom:jules lien_famille:fils 
+__label__homme metier: civilite: nom:simon lien_famille:fils 
+__label__homme metier: civilite: nom:francois lien_famille:fils 
+__label__homme metier: civilite: nom:jean lien_famille: 
+__label__homme metier:domestique civilite: nom:frederic lien_famille:domestique 
+__label__femme metier: civilite: nom:marie louise lien_famille:fille 
+__label__femme metier: civilite: nom:france lien_famille: 
+__label__femme metier: civilite: nom:helene lien_famille: 
+__label__femme metier: civilite: nom:maria lien_famille: 
+__label__femme metier: civilite: nom:annette lien_famille:femme 
+__label__ambigu metier: civilite: nom:jeanne lien_famille:chef 
+__label__homme metier:agent police civilite: nom:denis lien_famille:chef 
+__label__homme metier: civilite: nom:louis lien_famille: 
+__label__ambigu metier:journalier civilite: nom:claude lien_famille:chef 
+__label__femme metier: civilite: nom:clemence lien_famille:fille 
+__label__homme metier:cultivateur civilite: nom:jean lien_famille:chef 
+__label__homme metier: civilite: nom:jean claude lien_famille: 
+__label__femme metier:sans profession civilite: nom:amelie lien_famille:epouse 
+__label__ambigu metier:sans profession civilite: nom:claude lien_famille: 
+__label__femme metier:employee civilite: nom:celina lien_famille: 
+__label__homme metier:cult eur fermier civilite: nom:pierre lien_famille:chef 
+__label__femme metier: civilite: nom:marie lien_famille:fille 
+__label__homme metier:buraliste civilite: nom:gabriel lien_famille:chef 
+__label__homme metier:voiturier civilite: nom:paul lien_famille:chef 
+__label__homme metier:sans profession civilite: nom:jean lien_famille: 
+__label__homme metier: civilite: nom:rene lien_famille: 
+__label__homme metier:menuisier civilite: nom:francois antoine lien_famille:chef 
+__label__homme metier: civilite: nom:joseph lien_famille: 
+__label__homme metier: civilite: nom:alexandre lien_famille:fils 
+__label__homme metier: civilite: nom:auguste lien_famille:fils 
+__label__femme metier: civilite: nom:anne lien_famille:epouse 
+__label__homme metier:jardinier civilite: nom:jean lien_famille:pere 
+__label__femme metier:argentiere civilite: nom:josephine lien_famille: 
+__label__homme metier: civilite: nom:victor lien_famille:fils 
+__label__homme metier: civilite: nom:louis lien_famille: 
+__label__femme metier: civilite: nom:juliette lien_famille:mere 
+__label__homme metier:metayer civilite: nom:claude lien_famille:chef 
+__label__homme metier:forgeron civilite: nom:jean lien_famille:chef 
+__label__homme metier:cultivateur civilite: nom:barthelemy lien_famille:chef 
+__label__femme metier: civilite: nom:louise lien_famille: 
+__label__femme metier: civilite: nom:marie lien_famille: 
+__label__homme metier:imprimeur civilite: nom: lien_famille: 
+__label__femme metier:proprietaire civilite: nom:jeanne lien_famille:chef 
+__label__femme metier:repasseuse civilite: nom:therese lien_famille:epouse 
+__label__homme metier:cult eur fermier civilite: nom:baptiste lien_famille:chef 
+__label__homme metier:sans profession civilite: nom:louis jean lien_famille:chef 
+__label__homme metier: civilite: nom:anroine lien_famille:fils 
+__label__femme metier: civilite: nom:augustine lien_famille:femme 
+__label__ambigu metier: civilite: nom:marie lien_famille: 
+__label__femme metier:sans profession civilite: nom:marie lien_famille:epouse 
+__label__femme metier:sans profession civilite: nom:marie lien_famille:femme 
+__label__femme metier: civilite: nom:marie lien_famille: 
+__label__homme metier: civilite: nom:jean lien_famille: 
+__label__femme metier:sans profession civilite: nom:madeleine lien_famille:epouse 
+__label__homme metier:cultivateur civilite: nom:jacques lien_famille:chef 
+__label__femme metier:femme chambre civilite: nom:madeleine lien_famille:femme chambre 
+__label__femme metier:deposit journaux civilite: nom:marguerite lien_famille:chef 
+__label__femme metier: civilite: nom:marie lien_famille:fille 
+__label__homme metier:manoeuvre civilite: nom:branislav lien_famille:frere 
+__label__femme metier: civilite: nom:antoinette lien_famille:belle mere 
+__label__femme metier:sans profession civilite: nom:marguerite lien_famille:epouse 
+__label__homme metier: civilite: nom:pierre lien_famille:fils 
+__label__femme metier: civilite: nom:suzanne lien_famille:mere 
+__label__femme metier:boulanger civilite: nom:maria lien_famille:femme 
+__label__homme metier:journalier civilite: nom:jean lien_famille:chef 
+__label__homme metier:sans profession civilite: nom:henri lien_famille: 
+__label__homme metier: civilite: nom:georges lien_famille: 
+__label__homme metier: civilite: nom:jean marie lien_famille:fils 

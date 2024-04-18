@@ -1,0 +1,96 @@
+__label__femme nom:leonie lien_famille:fille 
+__label__homme nom:etienne lien_famille:chef 
+__label__homme nom:eugene lien_famille: 
+__label__femme nom:rose lien_famille:domestique 
+__label__ambigu nom:marie lien_famille: 
+__label__femme nom:marguerite lien_famille: 
+__label__homme nom:etienne lien_famille: 
+__label__femme nom:colette lien_famille:domestique 
+__label__femme nom:marie lien_famille:prof 
+__label__femme nom:rose lien_famille: 
+__label__homme nom:arthur lien_famille: 
+__label__femme nom:marie lien_famille: 
+__label__ambigu nom:vaude lien_famille:chef 
+__label__femme nom:jeanne lien_famille:femme 
+__label__homme nom:joseph lien_famille:epre 
+__label__homme nom:pierre lien_famille: 
+__label__homme nom:jean lien_famille:fils 
+__label__femme nom:marie lien_famille: 
+__label__homme nom:jean lien_famille: 
+__label__femme nom:marie lien_famille: 
+__label__homme nom:joseph lien_famille:patissier 
+__label__homme nom:jean raymond lien_famille:chef 
+__label__homme nom:joseph lien_famille:inf 
+__label__homme nom:charles lien_famille: 
+__label__homme nom:louis lien_famille: 
+__label__femme nom:jeanne lien_famille: 
+__label__femme nom:marthe lien_famille: 
+__label__femme nom:vigmie lien_famille:epouse 
+__label__homme nom:jules lien_famille: 
+__label__homme nom:simon lien_famille:chef 
+__label__homme nom:francois lien_famille:fils 
+__label__homme nom:jean lien_famille:a 
+__label__homme nom:frederic lien_famille:mestique 
+__label__femme nom:marie lien_famille:fille 
+__label__femme nom:franco lien_famille: 
+__label__femme nom:helene lien_famille:noant 
+__label__femme nom:maria lien_famille: 
+__label__femme nom:annette lien_famille: 
+__label__ambigu nom:jeanne lien_famille: 
+__label__homme nom:denis lien_famille:chef 
+__label__homme nom:louis lien_famille: 
+__label__ambigu nom:claude lien_famille:chef 
+__label__femme nom:clemence lien_famille:fille 
+__label__homme nom:jean lien_famille: 
+__label__homme nom:jean blanse lien_famille: 
+__label__femme nom:amelie lien_famille:sans par 
+__label__ambigu nom:claude lien_famille: 
+__label__femme nom:celina lien_famille:employee 
+__label__homme nom:pierre lien_famille:chef 
+__label__femme nom:marie lien_famille:fille 
+__label__homme nom:gabriel lien_famille: 
+__label__homme nom:paul lien_famille: 
+__label__homme nom:jean lien_famille:eprest 
+__label__homme nom:rene lien_famille: 
+__label__homme nom:zean antoine lien_famille: 
+__label__homme nom:joseph lien_famille:cuisiniere 
+__label__homme nom:alexandre lien_famille:par 
+__label__homme nom:auguste lien_famille: 
+__label__femme nom:anne lien_famille: 
+__label__homme nom:jean lien_famille: 
+__label__femme nom:josephine lien_famille:argentiere 
+__label__homme nom:victor lien_famille: 
+__label__homme nom:louis lien_famille: 
+__label__femme nom:juliette lien_famille: 
+__label__homme nom:claude lien_famille:chef 
+__label__homme nom:jean lien_famille:chef 
+__label__homme nom:barthe lien_famille:chef 
+__label__femme nom:louise lien_famille: 
+__label__femme nom:marie lien_famille:noraise 
+__label__homme nom:eugene lien_famille: 
+__label__femme nom:jeanne lien_famille:chef 
+__label__femme nom:therese lien_famille:epouse 
+__label__homme nom:bt lien_famille:chef 
+__label__homme nom:louis jean lien_famille: 
+__label__homme nom:antoine lien_famille: 
+__label__femme nom:augustine lien_famille: 
+__label__ambigu nom:marie lien_famille: 
+__label__femme nom:marie lien_famille: 
+__label__femme nom:marie lien_famille:femme 
+__label__femme nom:marie lien_famille:chef 
+__label__homme nom:jean lien_famille: 
+__label__femme nom:madeleine lien_famille: 
+__label__homme nom:jacques lien_famille:chef 
+__label__femme nom:madeleine lien_famille:femme chambre 
+__label__femme nom:marguerite lien_famille: 
+__label__femme nom:marie lien_famille: 
+__label__homme nom:branistau lien_famille:frere 
+__label__femme nom:antoinette lien_famille:belle mere 
+__label__femme nom:marguerite lien_famille:coms prof 
+__label__homme nom:anne lien_famille:emp fils 
+__label__femme nom:suzanne lien_famille:nevur 
+__label__femme nom:maria lien_famille:femme 
+__label__homme nom:jean lien_famille:chef 
+__label__homme nom:henri lien_famille: 
+__label__homme nom:georges lien_famille: 
+__label__homme nom:jean marie lien_famille: 

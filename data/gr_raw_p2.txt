@@ -1,0 +1,96 @@
+__label__femme text:surname: idem firstname: Léonie occupation: sp link: fille birth_date: 1899 lob: a  
+__label__homme text:surname: Dumont firstname: Etienne occupation: cultivateur link: chef employer: patron birth_date: 1861 lob: Coulanges  
+__label__homme text:surname: Lacroix firstname: Eugène occupation: s.p link: enfant age: 12  
+__label__femme text:surname: Thomas firstname: Rose occupation: domestique link: domestique employer: Gouvernaire age: 56  
+__label__ambigu text:surname: Chardon firstname: Marie occupation: idem link: chef age: 84 ans  
+__label__femme text:surname: Daniel firstname: Marguerite occupation: domestique age: 15  
+__label__homme text:surname: Dumont firstname: Etienne link: fils birth_date: 1900 lob: idem  
+__label__femme text:surname: Journey firstname: Colette occupation: domestique link: idem employer: idem birth_date: 1896 lob: La Chapelle  
+__label__femme text:surname: Roumeaux firstname: Marie occupation: sans prof. link: bru age: 25  
+__label__femme text:surname: Bonnet firstname: Rose occupation: néant link: mère age: 66 ans  
+__label__homme text:surname: Thévenin firstname: Arthur occupation: sp link: idem age: 9  
+__label__femme text:surname: Giron firstname: Marie occupation: sans profession link: belle-mère age: 74  
+__label__ambigu text:surname: Roumeau firstname: Claude occupation: cultivateur link: chef age: 30 ans  
+__label__femme text:surname: Dumont firstname: Jeanne link: femme birth_date: 1877 lob: Saint Didier en Donjon  
+__label__homme text:surname: Glache firstname: Joseph link: enfant age: 19  
+__label__homme text:surname: Mathion firstname: Pierre occupation: journalier terrassier link: chef age: 49  
+__label__homme text:surname: Millereux firstname: Jean occupation: idem link: fils age: 11  
+__label__femme text:surname: Lavocat firstname: Marie link: femme birth_date: 1875 lob: Rigny  
+__label__homme text:surname: Jean firstname: Jean occupation: cult eur link: enfant age: 20  
+__label__femme text:surname: Vichard firstname: Marie occupation: idem link: fille age: 4  
+__label__homme text:surname: Le Bihan firstname: Joseph occupation: patissier birth_date: 1908 lob: Morbihan  
+__label__homme text:surname: Cognet firstname: Jean Raymond occupation: manoeuvre link: ch. m employer: Labage birth_date: 1901 lob: St Priest  
+__label__homme text:surname: Cluzel firstname: Joseph link: enfant age: 18 civil_status: Garçon  
+__label__homme text:surname: Marmion firstname: Charles occupation: sans prof. link: petit-fils age: 12  
+__label__homme text:surname: Coq firstname: Louis occupation: idem link: idem employer: idem age: 9  
+__label__femme text:surname: Houdes firstname: Jeanne occupation: sp link: femme age: 68  
+__label__femme text:surname: Forestier firstname: Marthe occupation: idem link: fille age: 5  
+__label__femme text:surname: Aumaitre firstname: Virginie link: ép birth_date: 1852 lob: Saint-Avit Puy-De-Dome  
+__label__homme text:surname: Garitat firstname: Jules link: fils age: 12  
+__label__homme text:surname: Fleury firstname: Simon occupation: idem link: leur fils age: 9  
+__label__homme text:surname: Péron firstname: François link: fils birth_date: 1907 lob: Coulanges  
+__label__homme text:surname: Lécornet firstname: Jean link: idem age: 12  
+__label__homme text:surname: Régerat firstname: Frédéric occupation: domestique link: domestique age: 13  
+__label__femme text:surname: RIBET firstname: Marie-Louise occupation: idem link: fille age: 5  
+__label__femme text:surname: Souche firstname: France occupation: idem link: idem age: 2  
+__label__femme text:surname: Dumas firstname: Hélène occupation: néant link: enfant age: 3  
+__label__femme text:surname: Souche firstname: Maria occupation: idem link: idem age: 4 mois  
+__label__femme text:surname: Benne firstname: Annette link: femme age: 46  
+__label__ambigu text:surname: Gorbinet firstname: Jeanne occupation: idem link: chef age: 66  
+__label__homme text:surname: Brulier firstname: Denis occupation: agent de police link: chef age: 50  
+__label__homme text:surname: Coulon firstname: Louis occupation: idem link: idem age: 5  
+__label__ambigu text:surname: Daniel firstname: Claude occupation: journalier link: chef age: 33  
+__label__femme text:firstname: Clémence link: fille birth_date: 1917  
+__label__homme text:surname: Paturet firstname: Jean occupation: cultivateur link: chef age: 54 ans  
+__label__homme text:surname: Thély firstname: Jean-Claude occupation: idem link: idem employer: idem birth_date: 1892 lob: Coulanges  
+__label__femme text:surname: Couyat firstname: Amélie occupation: sans prof. link: épouse age: 51 ans  
+__label__ambigu text:surname: Pénot firstname: Claude occupation: s.p link: enfant age: 13  
+__label__femme text:surname: Hameau firstname: Célina occupation: employée birth_date: 1887  
+__label__homme text:surname: Lacroix firstname: Pierre occupation: cult eur fermier link: chef age: 53  
+__label__femme text:surname: Dumont firstname: Marie link: fille birth_date: 1892 lob: idem  
+__label__homme text:surname: Fayrolle firstname: Gabriel occupation: buraliste link: chef employer: patron age: 60  
+__label__homme text:surname: Pailleret firstname: Paul occupation: voiturier link: chef employer: patron age: 60  
+__label__homme text:surname: Déchery firstname: Jean occupation: sp link: enfant age: 11  
+__label__homme text:surname: Souche firstname: René occupation: idem link: idem age: 4  
+__label__homme text:surname: Mély firstname: François Antoine occupation: menuisier link: ch. m employer: Debord birth_date: 1898 lob: Vichy  
+__label__homme text:surname: Roy firstname: Joseph occupation: idem link: idem age: 21  
+__label__homme text:surname: Combey firstname: Alexandre occupation: idem link: son fils age: 39  
+__label__homme text:surname: Grobost firstname: Auguste link: leur fils age: 7 ans  
+__label__femme text:surname: Lavadoune firstname: Anne occupation: idem link: épouse age: 45  
+__label__homme text:surname: Chapelier firstname: Jean occupation: jardinier link: père age: 64  
+__label__femme text:surname: Mallet firstname: Josèphine occupation: argentière birth_date: 1904 lob: Loire  
+__label__homme text:surname: Chapelier firstname: Victor occupation: idem link: fils age: 8  
+__label__homme text:surname: Martin firstname: Louis occupation: néant link: enfant employer: néant age: 6  
+__label__femme text:surname: Mangeret firstname: Juliette occupation: néant link: mère de famille age: 32  
+__label__homme text:surname: Laurent firstname: Claude occupation: métayer link: chef age: 57  
+__label__homme text:surname: Triboulet firstname: Jean occupation: forgeron link: chef de famille age: 55  
+__label__homme text:surname: Conte firstname: Barthélémy occupation: cultivateur link: chef age: 65 ans  
+__label__femme text:surname: Bordet firstname: Louise occupation: idem link: enfant age: 23  
+__label__femme text:surname: Lécluse firstname: Marie occupation: néant link: enfant age: 15  
+__label__homme text:surname: idem occupation: imprimeur link: enfant age: 27  
+__label__femme text:surname: Châtel firstname: Jeanne occupation: propriétaire link: chef age: 52 ans  
+__label__femme text:surname: Frétier firstname: Thérèse occupation: repasseuse link: ép birth_date: 1898 lob: Paris  
+__label__homme text:surname: Simonin firstname: Baptiste occupation: cult eur fermier link: chef age: 35  
+__label__homme text:surname: Lhopital firstname: Louis-Jean occupation: sp link: chef age: 67  
+__label__homme text:surname: Lognon firstname: Anroine occupation: idem link: Fils age: 8  
+__label__femme text:surname: Pasquier firstname: Augustine occupation: néant link: femme age: 28  
+__label__ambigu text:surname: Martin firstname: Marie occupation: idem link: idem age: 45  
+__label__femme text:surname: Gay firstname: Marie occupation: s p link: épouse age: 36  
+__label__femme text:surname: Valnaud firstname: Marie occupation: s.p link: femme age: 64  
+__label__femme text:surname: Reynot firstname: Marie occupation: idem link: idem employer: idem birth_date: 1888 lob: Molines  
+__label__homme text:surname: Parrot firstname: Jean occupation: idem link: idem age: 15 jours  
+__label__femme text:surname: Décharne firstname: Madeleine occupation: sans profession link: épouse age: 57 ans  
+__label__homme text:surname: Diry firstname: Jacques occupation: cultivateur link: chef age: 35  
+__label__femme text:surname: Lasue firstname: Madeleine occupation: femme de chambre link: femme de chambre employer: Chabet birth_date: 1909 lob: Cher  
+__label__femme text:surname: Belin firstname: Marguerite occupation: déposit de journaux link: chef employer: patron age: 47  
+__label__femme text:surname: Haininger firstname: Marie occupation: idem link: fille age: 23  
+__label__homme text:surname: Kaermazek firstname: Branislav occupation: manoeuvre link: frère employer: Labage birth_date: 1908 lob: Wlanica Pologne  
+__label__femme text:surname: Renaut firstname: Antoinette link: belle-mère birth_date: 1849 lob: Rigny  
+__label__femme text:surname: Charrier firstname: Marguerite occupation: sans prof link: épouse age: 31  
+__label__homme text:surname: Glachet firstname: Pierre link: leur fils age: 18 ans  
+__label__femme text:surname: Joyoz firstname: Suzanne occupation: néant link: mère employer: néant age: 72  
+__label__femme text:surname: Goudin firstname: Maria occupation: boulanger link: femme birth_date: 1883  
+__label__homme text:surname: Parrot firstname: Jean occupation: journalier link: chef age: 33  
+__label__homme text:surname: Mallet firstname: Henri occupation: s.p link: enfant age: 2  
+__label__homme text:surname: Loyer firstname: Georges occupation: idem link: idem age: 17  
+__label__homme text:surname: Vichard firstname: Jean-Marie occupation: idem link: fils age: 5  

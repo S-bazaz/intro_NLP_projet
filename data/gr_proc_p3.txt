@@ -1,0 +1,96 @@
+__label__femme metier:sans profession nom:leonie lien_famille:fille 
+__label__homme metier:cultivateur nom:etienne lien_famille:chef 
+__label__homme metier:sans profession nom:eugene lien_famille: 
+__label__femme metier:domestique nom:rose lien_famille:domestique 
+__label__ambigu metier: nom:marie lien_famille:chef 
+__label__femme metier:domestique nom:marguerite lien_famille: 
+__label__homme metier: nom:etienne lien_famille:fils 
+__label__femme metier:domestique nom:colette lien_famille: 
+__label__femme metier:sans profession nom:marie lien_famille:bru 
+__label__femme metier: nom:rose lien_famille:mere 
+__label__homme metier:sans profession nom:arthur lien_famille: 
+__label__femme metier:sans profession nom:marie lien_famille:belle mere 
+__label__ambigu metier:cultivateur nom:claude lien_famille:chef 
+__label__femme metier: nom:jeanne lien_famille:femme 
+__label__homme metier: nom:joseph lien_famille: 
+__label__homme metier:journalier terrassier nom:pierre lien_famille:chef 
+__label__homme metier: nom:jean lien_famille:fils 
+__label__femme metier: nom:marie lien_famille:femme 
+__label__homme metier:cult eur nom:jean lien_famille: 
+__label__femme metier: nom:marie lien_famille:fille 
+__label__homme metier:patissier nom:joseph lien_famille: 
+__label__homme metier:manoeuvre nom:jean raymond lien_famille:chef 
+__label__homme metier: nom:joseph lien_famille: 
+__label__homme metier:sans profession nom:charles lien_famille:petit fils 
+__label__homme metier: nom:louis lien_famille: 
+__label__femme metier:sans profession nom:jeanne lien_famille:femme 
+__label__femme metier: nom:marthe lien_famille:fille 
+__label__femme metier: nom:virginie lien_famille:epouse 
+__label__homme metier: nom:jules lien_famille:fils 
+__label__homme metier: nom:simon lien_famille:fils 
+__label__homme metier: nom:francois lien_famille:fils 
+__label__homme metier: nom:jean lien_famille: 
+__label__homme metier:domestique nom:frederic lien_famille:domestique 
+__label__femme metier: nom:marie louise lien_famille:fille 
+__label__femme metier: nom:france lien_famille: 
+__label__femme metier: nom:helene lien_famille: 
+__label__femme metier: nom:maria lien_famille: 
+__label__femme metier: nom:annette lien_famille:femme 
+__label__ambigu metier: nom:jeanne lien_famille:chef 
+__label__homme metier:agent police nom:denis lien_famille:chef 
+__label__homme metier: nom:louis lien_famille: 
+__label__ambigu metier:journalier nom:claude lien_famille:chef 
+__label__femme metier: nom:clemence lien_famille:fille 
+__label__homme metier:cultivateur nom:jean lien_famille:chef 
+__label__homme metier: nom:jean claude lien_famille: 
+__label__femme metier:sans profession nom:amelie lien_famille:epouse 
+__label__ambigu metier:sans profession nom:claude lien_famille: 
+__label__femme metier:employee nom:celina lien_famille: 
+__label__homme metier:cult eur fermier nom:pierre lien_famille:chef 
+__label__femme metier: nom:marie lien_famille:fille 
+__label__homme metier:buraliste nom:gabriel lien_famille:chef 
+__label__homme metier:voiturier nom:paul lien_famille:chef 
+__label__homme metier:sans profession nom:jean lien_famille: 
+__label__homme metier: nom:rene lien_famille: 
+__label__homme metier:menuisier nom:francois antoine lien_famille:chef 
+__label__homme metier: nom:joseph lien_famille: 
+__label__homme metier: nom:alexandre lien_famille:fils 
+__label__homme metier: nom:auguste lien_famille:fils 
+__label__femme metier: nom:anne lien_famille:epouse 
+__label__homme metier:jardinier nom:jean lien_famille:pere 
+__label__femme metier:argentiere nom:josephine lien_famille: 
+__label__homme metier: nom:victor lien_famille:fils 
+__label__homme metier: nom:louis lien_famille: 
+__label__femme metier: nom:juliette lien_famille:mere 
+__label__homme metier:metayer nom:claude lien_famille:chef 
+__label__homme metier:forgeron nom:jean lien_famille:chef 
+__label__homme metier:cultivateur nom:barthelemy lien_famille:chef 
+__label__femme metier: nom:louise lien_famille: 
+__label__femme metier: nom:marie lien_famille: 
+__label__homme metier:imprimeur nom: lien_famille: 
+__label__femme metier:proprietaire nom:jeanne lien_famille:chef 
+__label__femme metier:repasseuse nom:therese lien_famille:epouse 
+__label__homme metier:cult eur fermier nom:baptiste lien_famille:chef 
+__label__homme metier:sans profession nom:louis jean lien_famille:chef 
+__label__homme metier: nom:anroine lien_famille:fils 
+__label__femme metier: nom:augustine lien_famille:femme 
+__label__ambigu metier: nom:marie lien_famille: 
+__label__femme metier:sans profession nom:marie lien_famille:epouse 
+__label__femme metier:sans profession nom:marie lien_famille:femme 
+__label__femme metier: nom:marie lien_famille: 
+__label__homme metier: nom:jean lien_famille: 
+__label__femme metier:sans profession nom:madeleine lien_famille:epouse 
+__label__homme metier:cultivateur nom:jacques lien_famille:chef 
+__label__femme metier:femme chambre nom:madeleine lien_famille:femme chambre 
+__label__femme metier:deposit journaux nom:marguerite lien_famille:chef 
+__label__femme metier: nom:marie lien_famille:fille 
+__label__homme metier:manoeuvre nom:branislav lien_famille:frere 
+__label__femme metier: nom:antoinette lien_famille:belle mere 
+__label__femme metier:sans profession nom:marguerite lien_famille:epouse 
+__label__homme metier: nom:pierre lien_famille:fils 
+__label__femme metier: nom:suzanne lien_famille:mere 
+__label__femme metier:boulanger nom:maria lien_famille:femme 
+__label__homme metier:journalier nom:jean lien_famille:chef 
+__label__homme metier:sans profession nom:henri lien_famille: 
+__label__homme metier: nom:georges lien_famille: 
+__label__homme metier: nom:jean marie lien_famille:fils 

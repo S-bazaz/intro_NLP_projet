@@ -1,0 +1,96 @@
+__label__femme text:prénom: Léonie date_naissance: 1899 lieux_naissance: a relation: fille profession: sp  
+__label__homme text:nom: Dumont prénom: Etienne date_naissance: 1881 lieux_naissance: Coulonge relation: chef profession: culviciste employeur: patron!18371  
+__label__homme text:nom: Lacroix prénom: Eugène date_naissance: 1204 lieux_naissance: id relation: enfant  
+__label__femme text:nom: Thomas prénom: Rose date_naissance: 55 lieux_naissance: domestique relation: domestique profession: domestique employeur: 21399  
+"__label__ambigu text:nom: Chardon prénom: Marie date_naissance: 84 lieux_naissance: "" relation: D  "
+"__label__femme text:nom: "" prénom: Marguerite date_naissance: 15 lieux_naissance: Domistique  "
+__label__homme text:nom: Dumont prénom: Etienne date_naissance: 1900 lieux_naissance: id  
+__label__femme text:nom: Journey prénom: Colette date_naissance: 1886 lieux_naissance: L Chopelle relation: domestique profession: id  
+__label__femme text:nom: Roumeaux prénom: Marie date_naissance: 21 lieux_naissance: C état_civil: m relation: prof  
+__label__femme text:nom: Bonnet prénom: Rose date_naissance: 6han état_civil: mère employeur: néant  
+__label__homme text:nom: d° prénom: Arthur date_naissance: 2 lieux_naissance: Sp relation: F  
+__label__femme text:nom: Giron prénom: Marie date_naissance: 74 lieux_naissance: id relation: id  
+__label__ambigu text:nom: Roumeau prénom: Vaude date_naissance: 1804 lieux_naissance: Aulpares relation: Chef  
+__label__femme text:nom: Dumont prénom: Jeanne date_naissance: 1877 lieux_naissance: Hte Liviers (s it ) relation: femme profession: '  
+__label__homme text:nom: Glacher prénom: Joseph relation: epre  
+__label__homme text:nom: Mathion prénom: Pierre date_naissance: 49 profession: journalier bessinateur  
+"__label__homme text:nom: Millereux prénom: Jean date_naissance: 11 lieux_naissance: ""d relation: fils  "
+__label__femme text:nom: Lavocat prénom: Marie date_naissance: 1875 lieux_naissance: Rigny profession: ''  
+__label__homme text:nom: Jean prénom: Jean date_naissance: 20 lieux_naissance: s relation: enfant  
+__label__femme text:nom: Vichard prénom: Marie date_naissance: 4 lieux_naissance: 0 lieux_naissance: Jille relation: P  
+__label__homme text:nom: Le Bihau prénom: Joseph date_naissance: 1908 lieux_naissance: Morbihan relation: patissier  
+__label__homme text:nom: Cognet prénom: Jean-Raymond date_naissance: 1901 lieux_naissance: St Sarot!Berne Vavie relation: Ch éducation: m profession: Menseuvr employeur: Labrye  
+__label__homme text:prénom: Joseph date_naissance: 18 lieux_naissance: f relation: inf  
+__label__homme text:nom: Marmien prénom: Charles date_naissance: 12anx état_civil: s  
+"__label__homme text:nom: d° prénom: Louis date_naissance: 9 relation: "" relation: F  "
+__label__femme text:nom: Houdes prénom: Jeanne date_naissance: 68 lieux_naissance: sp  
+__label__femme text:nom: Porestier prénom: Marthe date_naissance: 5 lieux_naissance: cd relation: id  
+__label__femme text:prénom: Vigmie date_naissance: 1852 lieux_naissance: Savit relation: Ep  
+__label__homme text:nom: Garitat prénom: Jules date_naissance: 12 lieux_naissance: id  
+__label__homme text:nom: Fleury prénom: Simon date_naissance: 90 état_civil: V relation: Ch  
+__label__homme text:nom: Léron prénom: François date_naissance: 1907 lieux_naissance: Coulanger relation: fils  
+__label__homme text:nom: Lécoret prénom: Jean date_naissance: 12 lieux_naissance: P relation: a  
+__label__homme text:nom: Pegerat prénom: Frédéric date_naissance: 13 lieux_naissance: S relation: d mestique employeur: 2 sormerce  
+__label__femme text:nom: Robet prénom: Marie S date_naissance: 5 lieux_naissance: n relation: fille  
+__label__femme text:nom: Soziche prénom: Franco date_naissance: 2 lieux_naissance: id profession: id  
+__label__femme text:nom: Burnas prénom: Hélène date_naissance: 3 0n état_civil: C relation: noant  
+__label__femme text:nom: Pouche prénom: Maria date_naissance: 4 10is lieux_naissance: d relation: id profession: id  
+__label__femme text:nom: Benne prénom: Annette date_naissance: 46 lieux_naissance: Su  
+__label__ambigu text:nom: Gorbinet prénom: Jeanne date_naissance: 66 lieux_naissance: id relation: id  
+__label__homme text:nom: Brulier prénom: Denis date_naissance: 50 lieux_naissance: agens de frataise relation: chef  
+__label__homme text:nom: Ceulon prénom: Louis date_naissance: 0 lieux_naissance: P relation: D  
+__label__ambigu text:nom: Demil prénom: Claude date_naissance: 33 lieux_naissance: Yonne relation: chef  
+"__label__femme text:prénom: Clémence date_naissance: 1917 lieux_naissance: "" relation: fille  "
+__label__homme text:nom: Paturet prénom: Jean date_naissance: 54 état_civil: Cheus)  
+__label__homme text:nom: Thély prénom: Jean blanse date_naissance: 1892 lieux_naissance: Coulange relation: id profession: id  
+__label__femme text:nom: Couyat prénom: Amélie date_naissance: 54 relation: sans par  
+__label__ambigu text:nom: Pirot prénom: Claude date_naissance: 1303 lieux_naissance: id relation: enfant  
+__label__femme text:nom: Haureau prénom: Célina date_naissance: 1887 lieux_naissance: Lasset relation: employée  
+__label__homme text:nom: Lacroix prénom: Pierre date_naissance: 3 8n lieux_naissance: f  ullle relation: chef  
+__label__femme text:nom: Dumont prénom: Marie date_naissance: 1892 lieux_naissance: id relation: fille  
+__label__homme text:nom: Farjolle prénom: Gabriel date_naissance: 60 lieux_naissance: id profession: Turaliste employeur: patron  
+__label__homme text:nom: Pailleret prénom: Paul date_naissance: 60 lieux_naissance: id profession: voiturier employeur: patron  
+__label__homme text:nom: d° prénom: Jean date_naissance: 11 lieux_naissance: P relation: éprest  
+__label__homme text:nom: Pojuche prénom: René date_naissance: 01 lieux_naissance: id profession: id  
+__label__homme text:nom: Mely prénom: Zean antoine date_naissance: 1898 lieux_naissance: Vielne état_civil: Ch éducation: m profession: Menuisier employeur: Debon?  
+__label__homme text:nom: Roy prénom: Joseph date_naissance: 21 lieux_naissance: P relation: cuisinière  
+__label__homme text:nom: Comberf prénom: Alexandre date_naissance: 59 lieux_naissance: d relation: par profession: fils  
+__label__homme text:nom: Grobosto prénom: Auguste date_naissance: Jans profession: Louv fils  
+__label__femme text:nom: Lavadoune prénom: Anne date_naissance: 155a  
+__label__homme text:nom: Chapelier prénom: Jean date_naissance: 64 lieux_naissance: Maronnier  
+__label__femme text:nom: Mallet prénom: Joséphine date_naissance: 1904 lieux_naissance: Loire relation: argentière  
+"__label__homme text:nom: Chopelier prénom: Victor date_naissance: 82 lieux_naissance: ""  "
+__label__homme text:nom: Martin prénom: Louis date_naissance: 6  aa  
+__label__femme text:nom: Manguet prénom: Juliette date_naissance: 82 lieux_naissance: Niant  
+__label__homme text:nom: Laurent prénom: Claude date_naissance: 57 relation: chef  
+__label__homme text:nom: Triboulet prénom: Jean date_naissance: 55 lieux_naissance: Gone relation: chef de famille  
+__label__homme text:nom: Caute prénom: Barthe date_naissance: n date_naissance: 6 lieux_naissance: ans relation: chef profession: eublinat  
+__label__femme text:nom: Boulet prénom: Louise date_naissance: 23 relation: f  
+__label__femme text:nom: Lechise prénom: Marie date_naissance: 7904 état_civil: C relation: noraise  
+"__label__homme text:prénom: Eugéne date_naissance: 27 lieux_naissance: "" relation: enf  "
+__label__femme text:nom: Chatel prénom: Jeanne date_naissance: 52 lieux_naissance: Proyustien relation: Ch  
+__label__femme text:prénom: Thérèse date_naissance: 1896 lieux_naissance: Paris état_civil: V relation: Ep profession: repasseuse  
+__label__homme text:nom: Simonin prénom: Bt date_naissance: 3ean lieux_naissance: alles relation: chef  
+__label__homme text:nom: Lhopital prénom: Louis Jean date_naissance: 67 lieux_naissance: Sn employeur: ahef  
+__label__homme text:nom: Lognon prénom: Antoine date_naissance: 88 lieux_naissance: d profession: Ed  
+__label__femme text:nom: Dasquier prénom: Augustine date_naissance: Plan état_civil: Vitant  
+__label__ambigu text:nom: Martin prénom: Marie date_naissance: 47 lieux_naissance: P id état_civil: id profession: id  
+"__label__femme text:nom: Garp prénom: Marie date_naissance: 36 lieux_naissance: "" état_civil: V P  "
+__label__femme text:nom: Valnaud prénom: Marie date_naissance: 644ann état_civil: s p relation: femme  
+__label__femme text:nom: Peynot prénom: Marie date_naissance: 1884 lieux_naissance: Colinet relation: ch profession: id employeur: ''  
+__label__homme text:nom: d° prénom: Jean date_naissance: 1913 lieux_naissance: P relation: F  
+__label__femme text:nom: Dicharne prénom: Madeleine date_naissance: 57 lieux_naissance: Grenges profession: sans professeur  
+__label__homme text:nom: Dory prénom: Jacques date_naissance: 35 lieux_naissance: d relation: Chef profession: eublinateur  
+__label__femme text:nom: Lasne prénom: Madeleine date_naissance: 1909 lieux_naissance: Cher relation: femme de chambre profession: d° employeur: d° !21399  
+"__label__femme text:nom: Belin prénom: Marguerite date_naissance: 47 lieux_naissance: "" profession: represt de pamis employeur: patron  "
+"__label__femme text:nom: Kaininger prénom: Marie date_naissance: 23 lieux_naissance: ""O  "
+__label__homme text:nom: Kaermazet prénom: Branistau date_naissance: 1908 lieux_naissance: Vipnica lolonais relation: frère profession: manoeuvre employeur: Labrye  
+__label__femme text:nom: Renaut prénom: Antoinette date_naissance: 1849 lieux_naissance: Rigny relation: belle mère  
+__label__femme text:nom: Charrier prénom: Marguerite date_naissance: 81 lieux_naissance: épouse relation: coms prof  
+__label__homme text:nom: Glachett prénom: Anne date_naissance: 1894 relation: Emp fils  
+__label__femme text:nom: Joyon prénom: Suzanne date_naissance: 72 lieux_naissance: P relation: nevur employeur: reaix  
+__label__femme text:nom: Goudin prénom: Maria date_naissance: 1883 lieux_naissance: Coulanges relation: femme  
+__label__homme text:nom: Parrot prénom: Jean date_naissance: 33 relation: chef  
+__label__homme text:nom: Mallet prénom: Henri date_naissance: 2an0 lieux_naissance: id relation: Enfant  
+__label__homme text:nom: Loyer prénom: Georges date_naissance: 17 lieux_naissance: P  
+__label__homme text:nom: Pichard prénom: Jean Marie date_naissance: 53 lieux_naissance: P  

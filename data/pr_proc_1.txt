@@ -1,0 +1,96 @@
+__label__femme metier:sans profession civilite: nom:leonie lien_famille:fille feminite_nom:5.914
+__label__homme metier:culviciste civilite: nom:etienne lien_famille:chef feminite_nom:-5.461
+__label__homme metier: civilite: nom:eugene lien_famille: feminite_nom:-5.163
+__label__femme metier:domestique civilite: nom:rose lien_famille:domestique feminite_nom:5.927
+__label__ambigu metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__femme metier: civilite: nom:marguerite lien_famille: feminite_nom:6.336
+__label__homme metier: civilite: nom:etienne lien_famille: feminite_nom:-5.461
+__label__femme metier: civilite: nom:colette lien_famille:domestique feminite_nom:6.348
+__label__femme metier: civilite: nom:marie lien_famille:prof feminite_nom:5.462
+__label__femme metier: civilite:mere nom:rose lien_famille: feminite_nom:5.927
+__label__homme metier: civilite: nom:arthur lien_famille: feminite_nom:-5.611
+__label__femme metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__ambigu metier: civilite: nom:vaude lien_famille:chef feminite_nom:4.407
+__label__femme metier: civilite: nom:jeanne lien_famille:femme feminite_nom:6.433
+__label__homme metier: civilite: nom:joseph lien_famille:epre feminite_nom:-5.354
+__label__homme metier:journalier bessinateur civilite: nom:pierre lien_famille: feminite_nom:-5.678
+__label__homme metier: civilite: nom:jean lien_famille:fils feminite_nom:-5.665
+__label__femme metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__homme metier: civilite: nom:jean lien_famille: feminite_nom:-5.665
+__label__femme metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__homme metier: civilite: nom:joseph lien_famille:patissier feminite_nom:-5.354
+__label__homme metier:menseuvr civilite: nom:jean raymond lien_famille:chef feminite_nom:-5.754
+__label__homme metier: civilite: nom:joseph lien_famille:inf feminite_nom:-5.354
+__label__homme metier: civilite: nom:charles lien_famille: feminite_nom:-5.649
+__label__homme metier: civilite: nom:louis lien_famille: feminite_nom:-5.62
+__label__femme metier: civilite: nom:jeanne lien_famille: feminite_nom:6.433
+__label__femme metier: civilite: nom:marthe lien_famille: feminite_nom:5.932
+__label__femme metier: civilite: nom:vigmie lien_famille:epouse feminite_nom:3.497
+__label__homme metier: civilite: nom:jules lien_famille: feminite_nom:-5.452
+__label__homme metier: civilite: nom:simon lien_famille:chef feminite_nom:-5.685
+__label__homme metier: civilite: nom:francois lien_famille:fils feminite_nom:-5.209
+__label__homme metier: civilite: nom:jean lien_famille:a feminite_nom:-5.665
+__label__homme metier: civilite: nom:frederic lien_famille:mestique feminite_nom:-5.31
+__label__femme metier: civilite: nom:marie lien_famille:fille feminite_nom:2.888
+__label__femme metier: civilite: nom:franco lien_famille: feminite_nom:1.062
+__label__femme metier: civilite: nom:helene lien_famille:noant feminite_nom:6.148
+__label__femme metier: civilite: nom:maria lien_famille: feminite_nom:5.346
+__label__femme metier: civilite: nom:annette lien_famille: feminite_nom:7.349
+__label__ambigu metier: civilite: nom:jeanne lien_famille: feminite_nom:6.433
+__label__homme metier: civilite: nom:denis lien_famille:chef feminite_nom:-5.631
+__label__homme metier: civilite: nom:louis lien_famille: feminite_nom:-5.62
+__label__ambigu metier: civilite: nom:claude lien_famille:chef feminite_nom:-4.206
+__label__femme metier: civilite: nom:clemence lien_famille:fille feminite_nom:5.91
+__label__homme metier: civilite:cheus) nom:jean lien_famille: feminite_nom:-5.665
+__label__homme metier: civilite: nom:jean blanse lien_famille: feminite_nom:-4.679
+__label__femme metier: civilite: nom:amelie lien_famille:sans par feminite_nom:6.27
+__label__ambigu metier: civilite: nom:claude lien_famille: feminite_nom:-4.206
+__label__femme metier: civilite: nom:celina lien_famille:employee feminite_nom:5.737
+__label__homme metier: civilite: nom:pierre lien_famille:chef feminite_nom:-5.678
+__label__femme metier: civilite: nom:marie lien_famille:fille feminite_nom:5.462
+__label__homme metier:turaliste civilite: nom:gabriel lien_famille: feminite_nom:-5.021
+__label__homme metier:voiturier civilite: nom:paul lien_famille: feminite_nom:-5.698
+__label__homme metier: civilite: nom:jean lien_famille:eprest feminite_nom:-5.665
+__label__homme metier: civilite: nom:rene lien_famille: feminite_nom:-5.466
+__label__homme metier:menuisier civilite:chef nom:zean antoine lien_famille: feminite_nom:-5.612
+__label__homme metier: civilite: nom:joseph lien_famille:cuisiniere feminite_nom:-5.354
+__label__homme metier:fils civilite: nom:alexandre lien_famille:par feminite_nom:-5.387
+__label__homme metier:louv fils civilite: nom:auguste lien_famille: feminite_nom:-5.408
+__label__femme metier: civilite: nom:anne lien_famille: feminite_nom:6.313
+__label__homme metier: civilite: nom:jean lien_famille: feminite_nom:-5.665
+__label__femme metier: civilite: nom:josephine lien_famille:argentiere feminite_nom:6.134
+__label__homme metier: civilite: nom:victor lien_famille: feminite_nom:-5.625
+__label__homme metier: civilite: nom:louis lien_famille: feminite_nom:-5.62
+__label__femme metier: civilite: nom:juliette lien_famille: feminite_nom:5.93
+__label__homme metier: civilite: nom:claude lien_famille:chef feminite_nom:-4.206
+__label__homme metier: civilite: nom:jean lien_famille:chef feminite_nom:-5.665
+__label__homme metier:eublinat civilite: nom:barthe lien_famille:chef feminite_nom:5.932
+__label__femme metier: civilite: nom:louise lien_famille: feminite_nom:6.273
+__label__femme metier: civilite: nom:marie lien_famille:noraise feminite_nom:5.462
+__label__homme metier: civilite: nom:eugene lien_famille: feminite_nom:-3.969
+__label__femme metier: civilite: nom:jeanne lien_famille:chef feminite_nom:6.433
+__label__femme metier:repasseuse civilite: nom:therese lien_famille:epouse feminite_nom:6.113
+__label__homme metier: civilite: nom:bt lien_famille:chef feminite_nom:-1.179
+__label__homme metier: civilite: nom:louis jean lien_famille: feminite_nom:-5.643
+__label__homme metier:ed civilite: nom:antoine lien_famille: feminite_nom:-5.558
+__label__femme metier: civilite:vitant nom:augustine lien_famille: feminite_nom:5.793
+__label__ambigu metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__femme metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__femme metier: civilite:sans profession nom:marie lien_famille:femme feminite_nom:5.462
+__label__femme metier: civilite: nom:marie lien_famille:chef feminite_nom:5.462
+__label__homme metier: civilite: nom:jean lien_famille: feminite_nom:-5.665
+__label__femme metier:sans professeur civilite: nom:madeleine lien_famille: feminite_nom:6.242
+__label__homme metier:eublinateur civilite: nom:jacques lien_famille:chef feminite_nom:-5.674
+__label__femme metier: civilite: nom:madeleine lien_famille:femme chambre feminite_nom:6.242
+__label__femme metier:represt pamis civilite: nom:marguerite lien_famille: feminite_nom:6.336
+__label__femme metier: civilite: nom:marie lien_famille: feminite_nom:5.462
+__label__homme metier:manoeuvre civilite: nom:branistau lien_famille:frere feminite_nom:-5.366
+__label__femme metier: civilite: nom:antoinette lien_famille:belle mere feminite_nom:6.133
+__label__femme metier: civilite: nom:marguerite lien_famille:coms prof feminite_nom:6.336
+__label__homme metier: civilite: nom:anne lien_famille:emp fils feminite_nom:6.313
+__label__femme metier: civilite: nom:suzanne lien_famille:nevur feminite_nom:6.421
+__label__femme metier: civilite: nom:maria lien_famille:femme feminite_nom:5.346
+__label__homme metier: civilite: nom:jean lien_famille:chef feminite_nom:-5.665
+__label__homme metier: civilite: nom:henri lien_famille: feminite_nom:-5.705
+__label__homme metier: civilite: nom:georges lien_famille: feminite_nom:-5.637
+__label__homme metier: civilite: nom:jean marie lien_famille: feminite_nom:-0.102

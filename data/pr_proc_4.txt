@@ -1,0 +1,96 @@
+__label__femme nom:leonie civilite: lien_famille:fille 
+__label__homme nom:etienne civilite: lien_famille:chef 
+__label__homme nom:eugene civilite: lien_famille: 
+__label__femme nom:rose civilite: lien_famille:domestique 
+__label__ambigu nom:marie civilite: lien_famille: 
+__label__femme nom:marguerite civilite: lien_famille: 
+__label__homme nom:etienne civilite: lien_famille: 
+__label__femme nom:colette civilite: lien_famille:domestique 
+__label__femme nom:marie civilite: lien_famille:prof 
+__label__femme nom:rose civilite:mere lien_famille: 
+__label__homme nom:arthur civilite: lien_famille: 
+__label__femme nom:marie civilite: lien_famille: 
+__label__ambigu nom:vaude civilite: lien_famille:chef 
+__label__femme nom:jeanne civilite: lien_famille:femme 
+__label__homme nom:joseph civilite: lien_famille:epre 
+__label__homme nom:pierre civilite: lien_famille: 
+__label__homme nom:jean civilite: lien_famille:fils 
+__label__femme nom:marie civilite: lien_famille: 
+__label__homme nom:jean civilite: lien_famille: 
+__label__femme nom:marie civilite: lien_famille: 
+__label__homme nom:joseph civilite: lien_famille:patissier 
+__label__homme nom:jean raymond civilite: lien_famille:chef 
+__label__homme nom:joseph civilite: lien_famille:inf 
+__label__homme nom:charles civilite: lien_famille: 
+__label__homme nom:louis civilite: lien_famille: 
+__label__femme nom:jeanne civilite: lien_famille: 
+__label__femme nom:marthe civilite: lien_famille: 
+__label__femme nom:vigmie civilite: lien_famille:epouse 
+__label__homme nom:jules civilite: lien_famille: 
+__label__homme nom:simon civilite: lien_famille:chef 
+__label__homme nom:francois civilite: lien_famille:fils 
+__label__homme nom:jean civilite: lien_famille:a 
+__label__homme nom:frederic civilite: lien_famille:mestique 
+__label__femme nom:marie civilite: lien_famille:fille 
+__label__femme nom:franco civilite: lien_famille: 
+__label__femme nom:helene civilite: lien_famille:noant 
+__label__femme nom:maria civilite: lien_famille: 
+__label__femme nom:annette civilite: lien_famille: 
+__label__ambigu nom:jeanne civilite: lien_famille: 
+__label__homme nom:denis civilite: lien_famille:chef 
+__label__homme nom:louis civilite: lien_famille: 
+__label__ambigu nom:claude civilite: lien_famille:chef 
+__label__femme nom:clemence civilite: lien_famille:fille 
+__label__homme nom:jean civilite:cheus) lien_famille: 
+__label__homme nom:jean blanse civilite: lien_famille: 
+__label__femme nom:amelie civilite: lien_famille:sans par 
+__label__ambigu nom:claude civilite: lien_famille: 
+__label__femme nom:celina civilite: lien_famille:employee 
+__label__homme nom:pierre civilite: lien_famille:chef 
+__label__femme nom:marie civilite: lien_famille:fille 
+__label__homme nom:gabriel civilite: lien_famille: 
+__label__homme nom:paul civilite: lien_famille: 
+__label__homme nom:jean civilite: lien_famille:eprest 
+__label__homme nom:rene civilite: lien_famille: 
+__label__homme nom:zean antoine civilite:chef lien_famille: 
+__label__homme nom:joseph civilite: lien_famille:cuisiniere 
+__label__homme nom:alexandre civilite: lien_famille:par 
+__label__homme nom:auguste civilite: lien_famille: 
+__label__femme nom:anne civilite: lien_famille: 
+__label__homme nom:jean civilite: lien_famille: 
+__label__femme nom:josephine civilite: lien_famille:argentiere 
+__label__homme nom:victor civilite: lien_famille: 
+__label__homme nom:louis civilite: lien_famille: 
+__label__femme nom:juliette civilite: lien_famille: 
+__label__homme nom:claude civilite: lien_famille:chef 
+__label__homme nom:jean civilite: lien_famille:chef 
+__label__homme nom:barthe civilite: lien_famille:chef 
+__label__femme nom:louise civilite: lien_famille: 
+__label__femme nom:marie civilite: lien_famille:noraise 
+__label__homme nom:eugene civilite: lien_famille: 
+__label__femme nom:jeanne civilite: lien_famille:chef 
+__label__femme nom:therese civilite: lien_famille:epouse 
+__label__homme nom:bt civilite: lien_famille:chef 
+__label__homme nom:louis jean civilite: lien_famille: 
+__label__homme nom:antoine civilite: lien_famille: 
+__label__femme nom:augustine civilite:vitant lien_famille: 
+__label__ambigu nom:marie civilite: lien_famille: 
+__label__femme nom:marie civilite: lien_famille: 
+__label__femme nom:marie civilite:sans profession lien_famille:femme 
+__label__femme nom:marie civilite: lien_famille:chef 
+__label__homme nom:jean civilite: lien_famille: 
+__label__femme nom:madeleine civilite: lien_famille: 
+__label__homme nom:jacques civilite: lien_famille:chef 
+__label__femme nom:madeleine civilite: lien_famille:femme chambre 
+__label__femme nom:marguerite civilite: lien_famille: 
+__label__femme nom:marie civilite: lien_famille: 
+__label__homme nom:branistau civilite: lien_famille:frere 
+__label__femme nom:antoinette civilite: lien_famille:belle mere 
+__label__femme nom:marguerite civilite: lien_famille:coms prof 
+__label__homme nom:anne civilite: lien_famille:emp fils 
+__label__femme nom:suzanne civilite: lien_famille:nevur 
+__label__femme nom:maria civilite: lien_famille:femme 
+__label__homme nom:jean civilite: lien_famille:chef 
+__label__homme nom:henri civilite: lien_famille: 
+__label__homme nom:georges civilite: lien_famille: 
+__label__homme nom:jean marie civilite: lien_famille: 
